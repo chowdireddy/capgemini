@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/chowdireddy/.cache/upstart/bamfdaemon.log" 2018-12-5-22:0:0
+"/home/chowdireddy/.cache/upstart/ssh-agent.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/unity7.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/gnome-keyring-ssh.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/unity-settings-daemon.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/gpg-agent.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/unity-panel-service.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/upstart-event-bridge.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/indicator-application.log" 2018-12-5-7:0:0
+"/home/chowdireddy/.cache/upstart/window-stack-bridge.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/at-spi2-registryd.log" 2018-12-5-22:0:0
+"/home/chowdireddy/.cache/upstart/hud.log" 2018-12-5-7:17:44
+"/home/chowdireddy/.cache/upstart/dbus.log" 2018-12-5-22:50:44
+"/home/chowdireddy/.cache/upstart/indicator-sound.log" 2018-12-5-22:50:44
